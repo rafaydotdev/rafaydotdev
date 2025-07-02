@@ -35,7 +35,7 @@ Here are the technologies I'm currently working with:
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-abdul-rafay-a6111936b/">
+  <a href="https://www.linkedin.com/in/muhammad-abdul-rafay-a6111936b/" target="_main">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
