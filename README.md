@@ -1,4 +1,4 @@
-# Hi there, Myself Abdul Rafay 👋
+# Hi there, I'm Abdul Rafay 👋
  ## 🚀 About Me
 
 I am a 17-year-old aspiring entrepreneur from Pakistan, determined to establish a tech empire by the age of 25. I believe in the potential of decentralized technology to unlock new opportunities, and I am documenting my entire journey here.
