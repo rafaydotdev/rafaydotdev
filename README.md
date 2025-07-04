@@ -41,10 +41,10 @@ Here are the technologies I'm currently working with:
    <a href="https://x.com/rafaydotdev">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
- <a href="https://x.com/rafaydotdev" target="_blank">
+ <a href="https://x.com/rafaydotdev" target="_main">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
   </a>
-  <a href="https://www.instagram.com/rafaydotdev/" target="_blank">
+  <a href="https://www.instagram.com/rafaydotdev/" target="_main">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
