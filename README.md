@@ -37,7 +37,7 @@ I am an aspiring cybersecurity professional and tech entrepreneur from Pakistan.
 ## 🏆 Cyber Security Training & Profile
 
 <p align="left">
-  <a href="https://tryhackme.com/p/c1ph3r07official" target="_blank">
+  <a href="https://tryhackme.com/p/c1ph3r07" target="_blank">
     <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
 </p>
@@ -59,16 +59,16 @@ I am an aspiring cybersecurity professional and tech entrepreneur from Pakistan.
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafaydotdev/" target="_main">
+  <a href="https://www.linkedin.com/in/rafaydotdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/rafaydotdev">
+  <a href="https://x.com/rafaydotdev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://x.com/rafaydotdev" target="_main">
+  <a href="https://x.com/rafaydotdev" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
   </a>
-  <a href="https://www.instagram.com/rafaydotdev/" target="_main">
+  <a href="https://www.instagram.com/rafaydotdev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
