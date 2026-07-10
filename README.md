@@ -59,7 +59,7 @@ I am an aspiring cybersecurity professional and tech entrepreneur from Pakistan.
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-abdul-rafay-a6111936b/" target="_main">
+  <a href="https://www.linkedin.com/in/rafaydotdev/" target="_main">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/rafaydotdev">
