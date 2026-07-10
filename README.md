@@ -37,7 +37,7 @@ I am an aspiring cybersecurity professional and tech entrepreneur from Pakistan.
 ## 🏆 Cyber Security Training & Profile
 
 <p align="left">
-  <a href="https://tryhackme.com/p/c1ph3r07" target="_blank">
+  <a href="https://tryhackme.com/p/c1ph3r07official" target="_blank">
     <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
 </p>
