@@ -34,11 +34,11 @@ I am an aspiring cybersecurity professional and tech entrepreneur from Pakistan.
 
 ---
 
-## 🏆 Cyber Security Training & Badges
+## 🏆 Cyber Security Training & Profile
 
 <p align="left">
-  <a href="https://tryhackme.com/p/rafaydotdev" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/rafaydotdev.png" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com/p/c1ph3r07" target="_blank">
+    <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
 </p>
 
@@ -51,7 +51,6 @@ I am an aspiring cybersecurity professional and tech entrepreneur from Pakistan.
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaydotdev&show_icons=true&theme=radical" alt="Your GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaydotdev&theme=radical" alt="Your GitHub Streak" />
 </p>
 
@@ -60,7 +59,7 @@ I am an aspiring cybersecurity professional and tech entrepreneur from Pakistan.
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafaydotdev/" target="_main">
+  <a href="https://www.linkedin.com/in/muhammad-abdul-rafay-a6111936b/" target="_main">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/rafaydotdev">
